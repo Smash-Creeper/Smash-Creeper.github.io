@@ -1,0 +1,27 @@
+{
+	"users" :[{
+		"banner" : "metalic",
+		"background" : "standard_grid",
+		"name" : "Synth Mints",
+		"color" : [255,0,0]
+	},
+	{
+		"banner" : "standard_old",
+		"background" : "standard_grid",
+		"name" : "Smash Creeper",
+		"color" : [191,191,255]
+	},
+	{
+		"banner" : "standard_old",
+		"background" : "standard_grid",
+		"name" : "Gamingboi P. Wimbledon the Third",
+		"color" : [255,255,0]
+	},
+	{
+		"banner" : "metalic",
+		"background" : "crackhouse",
+		"name" : "BaZil Botanic",
+		"color" : [0,128,0]
+	}
+	]
+}
