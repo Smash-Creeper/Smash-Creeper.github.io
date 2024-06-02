@@ -3,7 +3,7 @@
 		"banner" : "metalic",
 		"background" : "standard_grid",
 		"name" : "Synth Mints",
-		"color" : [255,0,0]
+		"color" : [255,50,50]
 	},
 	{
 		"banner" : "standard_old",
