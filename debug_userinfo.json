@@ -1,6 +1,6 @@
 {
 	"users" :[{
-		"banner" : "metalic",
+		"banner" : "standard",
 		"background" : "standard_grid",
 		"name" : "Synth Mints",
 		"color" : [255,50,50]
@@ -12,7 +12,7 @@
 		"color" : [191,221,255]
 	},
 	{
-		"banner" : "standard_old",
+		"banner" : "standard",
 		"background" : "standard_grid",
 		"name" : "Gamingboi P. Wimbledon the Third",
 		"color" : [108, 34, 161]
