@@ -6,7 +6,7 @@
 		"color" : [255,50,50]
 	},
 	{
-		"banner" : "standard_old",
+		"banner" : "metalic",
 		"background" : "standard_grid",
 		"name" : "Smash Creeper",
 		"color" : [191,221,255]
@@ -18,7 +18,7 @@
 		"color" : [108, 34, 161]
 	},
 	{
-		"banner" : "metalic",
+		"banner" : "standard_old",
 		"background" : "crackhouse",
 		"name" : "Verne from VerneCraft",
 		"color" : [0,129,0]
