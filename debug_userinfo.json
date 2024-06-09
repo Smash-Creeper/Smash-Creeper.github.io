@@ -25,5 +25,5 @@
 	}
 	],
 	"password" : 111925,
-	"askForPlayers" : false
+	"askForPlayers" : true
 }
