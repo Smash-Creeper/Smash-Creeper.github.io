@@ -25,7 +25,7 @@
 	},
 	{
 		"banner" : "standard_beta",
-		"background" : "standard",
+		"background" : "standard_grid",
 		"name" : "Del",
 		"color" : [252, 102, 3]
 	},
