@@ -1,28 +1,53 @@
 {
 	"users" :[{
-		"banner" : "metalic",
+		"banner" : "tree",
 		"background" : "standard_grid",
-		"name" : "Synth Mints",
+		"name" : "Snowy Synth Mints",
 		"color" : [255,50,50]
 	},
 	{
-		"banner" : "standard_old",
+		"banner" : "metalic",
 		"background" : "standard_grid",
 		"name" : "Smash Creeper",
 		"color" : [191,221,255]
 	},
 	{
-		"banner" : "standard_old",
+		"banner" : "standard",
 		"background" : "standard_grid",
 		"name" : "Gamingboi P. Wimbledon the Third",
-		"color" : [255,255,0]
+		"color" : [108, 34, 161]
 	},
 	{
-		"banner" : "metalic",
+		"banner" : "stage",
 		"background" : "crackhouse",
 		"name" : "Verne from VerneCraft",
 		"color" : [0,129,0]
+	},
+	{
+		"banner" : "standard_beta",
+		"background" : "standard_grid",
+		"name" : "Del",
+		"color" : [252, 102, 3]
+	},
+	{
+		"banner" : "metalic",
+		"background" : "standard_grid",
+		"name" : "Plagued Bird",
+		"color" : [51, 69, 52]
+	},
+	{
+		"banner" : "stage",
+		"background" : "standard_grid",
+		"name" : "Rosemarykat",
+		"color" : [69, 54, 138]
+	},
+	{
+		"banner" : "standard_old",
+		"background" : "standard_grid",
+		"name" : "Sensational Studio from Sensational Studios Underswap Take",
+		"color" : [87, 37, 10]
 	}
 	],
-	"password" : 082623
+	"password" : 122137,
+	"askForPlayers" : true
 }
